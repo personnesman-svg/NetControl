@@ -1,0 +1,23 @@
+# Сборка
+build/
+**/build/
+.cxx/
+*.apk
+*.aab
+
+# Gradle
+.gradle/
+gradle-app.setting
+
+# Локальные настройки (путь к SDK и т.д.)
+local.properties
+**/local.properties
+
+# Android Studio
+.idea/
+*.iml
+.externalNativeBuild/
+
+# Прочее
+captures/
+*.hprof

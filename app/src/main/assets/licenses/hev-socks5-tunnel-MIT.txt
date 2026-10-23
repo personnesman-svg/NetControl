@@ -1,0 +1,6 @@
+hev-socks5-tunnel — MIT License
+
+The hev-socks5-tunnel Android AAR is downloaded from the official upstream release during the build. Its source and license are available at:
+https://github.com/heiher/hev-socks5-tunnel
+
+The upstream project identifies its license as MIT. Please consult the exact license text at the upstream repository/release corresponding to the AAR used to build the APK before redistributing a release build.
